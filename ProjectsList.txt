@@ -1,0 +1,12 @@
+42 weekends per year on different projects (mechanical/electrical)
+Start from July 2024
+Finish in the End of June 2024
+Projects:
+1.HID device (keyboard n touchscreen)
+2.RF transceiver
+3.Stepper motor arm
+4.Language vocabulary generator
+5.Vocabulary memorizing module (root, links)
+6.Vocabulary app
+7.Brushless motor simulator (spring, damping, gravityless)
+8.DAC+audio amp
